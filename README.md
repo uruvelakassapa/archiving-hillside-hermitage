@@ -23,4 +23,7 @@ TODO Kiwi browser
 TODOs
 - Suttas
 - Kindle
+- Windows
 - PDFs (for printing?)
+- Audio clipping apps?
+  
